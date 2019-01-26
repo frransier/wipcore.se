@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
-    description: 'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+    title: 'Wipcore - experter på e-handel sen 1997',
+    description: 'Detta är Wipcore:s metabeskrivning. Skriv bra saker så går det bra på google',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
