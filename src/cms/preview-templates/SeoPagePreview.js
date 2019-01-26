@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { SeoPageTemplate } from '../../templates/about-page'
+import { SeoPageTemplate } from '../../templates/seo-page'
 
 const SeoPagePreview = ({ entry, widgetFor }) => (
   <SeoPageTemplate
