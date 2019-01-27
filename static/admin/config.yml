@@ -4,6 +4,9 @@ backend:
 
 media_folder: static/img
 public_folder: /img
+publish_mode: editorial_workflow
+display_url: https://relaxed-leavitt-41e1be.netlify.com/
+logo_url: https://your-site.com/img/logo.svg
 
 collections:
   - name: "blog"
