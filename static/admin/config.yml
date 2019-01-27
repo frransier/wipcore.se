@@ -4,6 +4,9 @@ backend:
 
 media_folder: static/img
 public_folder: /img
+publish_mode: editorial_workflow
+display_url: https://wipcore.netlify.com/
+logo_url: https://wipcore.netlify.com/static/logo-447ab68d535dba6ff2fe58da91a101fb.svg
 
 collections:
   - name: "blog"
